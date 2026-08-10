@@ -1,7 +1,5 @@
 # Orbi-note
 
-# Orbinote
-
 Your notes, in orbit.
 
 Orbinote is a mobile note-taking app that turns your notes into a navigable
